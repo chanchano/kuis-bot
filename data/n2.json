@@ -1,0 +1,14 @@
+[
+  { "id": 301, "level": "N2", "type": "kanji", "question": "傾向", "reading": "けいこう", "meaning": "kecenderungan" },
+  { "id": 302, "level": "N2", "type": "kanji", "question": "矛盾", "reading": "むじゅん", "meaning": "kontradiksi" },
+  { "id": 303, "level": "N2", "type": "kanji", "question": "促進", "reading": "そくしん", "meaning": "mendorong/promosi" },
+  { "id": 304, "level": "N2", "type": "kanji", "question": "抽象", "reading": "ちゅうしょう", "meaning": "abstrak" },
+  { "id": 305, "level": "N2", "type": "kanji", "question": "維持", "reading": "いじ", "meaning": "mempertahankan" },
+  { "id": 306, "level": "N2", "type": "kanji", "question": "普及", "reading": "ふきゅう", "meaning": "penyebaran/populer" },
+  { "id": 307, "level": "N2", "type": "kanji", "question": "根拠", "reading": "こんきょ", "meaning": "dasar/alasan" },
+  { "id": 308, "level": "N2", "type": "kanji", "question": "対応", "reading": "たいおう", "meaning": "respons/penanganan" },
+  { "id": 309, "level": "N2", "type": "kanji", "question": "従来", "reading": "じゅうらい", "meaning": "sebelumnya/konvensional" },
+  { "id": 310, "level": "N2", "type": "kanji", "question": "顕著", "reading": "けんちょ", "meaning": "menonjol/nyata" },
+  { "id": 311, "level": "N2", "type": "kanji", "question": "曖昧", "reading": "あいまい", "meaning": "ambigu/samar" },
+  { "id": 312, "level": "N2", "type": "kanji", "question": "妥当", "reading": "だとう", "meaning": "wajar/masuk akal" }
+]

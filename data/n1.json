@@ -1,0 +1,12 @@
+[
+  { "id": 401, "level": "N1", "type": "kanji", "question": "軋轢", "reading": "あつれき", "meaning": "friksi/konflik" },
+  { "id": 402, "level": "N1", "type": "kanji", "question": "呆然", "reading": "ぼうぜん", "meaning": "tercengang/terpaku" },
+  { "id": 403, "level": "N1", "type": "kanji", "question": "曖昧模糊", "reading": "あいまいもこ", "meaning": "sangat samar/kabur" },
+  { "id": 404, "level": "N1", "type": "kanji", "question": "凋落", "reading": "ちょうらく", "meaning": "kemunduran/kejatuhan" },
+  { "id": 405, "level": "N1", "type": "kanji", "question": "払拭", "reading": "ふっしょく", "meaning": "menghapus/menyingkirkan" },
+  { "id": 406, "level": "N1", "type": "kanji", "question": "斡旋", "reading": "あっせん", "meaning": "mediasi/perantara" },
+  { "id": 407, "level": "N1", "type": "kanji", "question": "示唆", "reading": "しさ", "meaning": "isyarat/sugesti" },
+  { "id": 408, "level": "N1", "type": "kanji", "question": "逸脱", "reading": "いつだつ", "meaning": "penyimpangan" },
+  { "id": 409, "level": "N1", "type": "kanji", "question": "遂行", "reading": "すいこう", "meaning": "pelaksanaan" },
+  { "id": 410, "level": "N1", "type": "kanji", "question": "享受", "reading": "きょうじゅ", "meaning": "menikmati/mendapatkan manfaat" }
+]

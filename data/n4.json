@@ -1,0 +1,17 @@
+[
+  { "id": 101, "level": "N4", "type": "kanji", "question": "国", "reading": "くに", "meaning": "negara" },
+  { "id": 102, "level": "N4", "type": "kanji", "question": "会社", "reading": "かいしゃ", "meaning": "perusahaan" },
+  { "id": 103, "level": "N4", "type": "kanji", "question": "仕事", "reading": "しごと", "meaning": "pekerjaan" },
+  { "id": 104, "level": "N4", "type": "kanji", "question": "経験", "reading": "けいけん", "meaning": "pengalaman" },
+  { "id": 105, "level": "N4", "type": "kanji", "question": "天気", "reading": "てんき", "meaning": "cuaca" },
+  { "id": 106, "level": "N4", "type": "kanji", "question": "旅行", "reading": "りょこう", "meaning": "perjalanan/travel" },
+  { "id": 107, "level": "N4", "type": "kanji", "question": "時間", "reading": "じかん", "meaning": "waktu" },
+  { "id": 108, "level": "N4", "type": "kanji", "question": "教育", "reading": "きょういく", "meaning": "pendidikan" },
+  { "id": 109, "level": "N4", "type": "kanji", "question": "料理", "reading": "りょうり", "meaning": "masakan" },
+  { "id": 110, "level": "N4", "type": "kanji", "question": "運転", "reading": "うんてん", "meaning": "mengemudi" },
+  { "id": 111, "level": "N4", "type": "kanji", "question": "銀行", "reading": "ぎんこう", "meaning": "bank" },
+  { "id": 112, "level": "N4", "type": "kanji", "question": "駅", "reading": "えき", "meaning": "stasiun" },
+  { "id": 113, "level": "N4", "type": "kanji", "question": "空港", "reading": "くうこう", "meaning": "bandara" },
+  { "id": 114, "level": "N4", "type": "kanji", "question": "病院", "reading": "びょういん", "meaning": "rumah sakit" },
+  { "id": 115, "level": "N4", "type": "kanji", "question": "健康", "reading": "けんこう", "meaning": "kesehatan" }
+]

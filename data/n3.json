@@ -1,0 +1,15 @@
+[
+  { "id": 201, "level": "N3", "type": "kanji", "question": "経済", "reading": "けいざい", "meaning": "ekonomi" },
+  { "id": 202, "level": "N3", "type": "kanji", "question": "政治", "reading": "せいじ", "meaning": "politik" },
+  { "id": 203, "level": "N3", "type": "kanji", "question": "環境", "reading": "かんきょう", "meaning": "lingkungan" },
+  { "id": 205, "level": "N3", "type": "kanji", "question": "文化", "reading": "ぶんか", "meaning": "budaya" },
+  { "id": 206, "level": "N3", "type": "kanji", "question": "技術", "reading": "ぎじゅつ", "meaning": "teknologi" },
+  { "id": 207, "level": "N3", "type": "kanji", "question": "研究", "reading": "けんきゅう", "meaning": "penelitian" },
+  { "id": 208, "level": "N3", "type": "kanji", "question": "関係", "reading": "かんけい", "meaning": "hubungan" },
+  { "id": 209, "level": "N3", "type": "kanji", "question": "影響", "reading": "えいきょう", "meaning": "pengaruh" },
+  { "id": 210, "level": "N3", "type": "kanji", "question": "解決", "reading": "かいけつ", "meaning": "penyelesaian" },
+  { "id": 211, "level": "N3", "type": "kanji", "question": "状況", "reading": "じょうきょう", "meaning": "situasi/keadaan" },
+  { "id": 212, "level": "N3", "type": "kanji", "question": "予定", "reading": "よてい", "meaning": "rencana/jadwal" },
+  { "id": 213, "level": "N3", "type": "kanji", "question": "参加", "reading": "さんか", "meaning": "partisipasi" },
+  { "id": 214, "level": "N3", "type": "kanji", "question": "必要", "reading": "ひつよう", "meaning": "perlu/dibutuhkan" }
+]
